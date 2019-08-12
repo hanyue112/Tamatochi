@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tamatochi", "Tamatochi\Tamatochi.csproj", "{2F999CFF-CA57-41F4-9747-3C65B4F1B152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F999CFF-CA57-41F4-9747-3C65B4F1B152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F999CFF-CA57-41F4-9747-3C65B4F1B152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F999CFF-CA57-41F4-9747-3C65B4F1B152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F999CFF-CA57-41F4-9747-3C65B4F1B152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B09F41EB-F1A5-4768-88E6-75E3BD568824}
+	EndGlobalSection
+EndGlobal
